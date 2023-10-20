@@ -1,0 +1,17 @@
+section{
+
+    text-align: center;
+}
+
+
+body section div{
+    width: 550px;
+    height: 550px;
+    background-color: rgba(184, 178, 178, 0.719);
+    margin: 20px;
+    display: inline-block;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    border-width: 5px;
+    border-style: groove;
+}

@@ -1,0 +1,113 @@
+@import url(_accueil.css);
+
+
+.menu__dispo{
+
+
+color: rgb(0, 0, 0);
+
+}
+
+.stock{
+
+color: rgb(255, 255, 255);
+
+
+}
+
+.block__fashion{
+
+display: block;
+margin-top: 0px;
+margin-right: 0px;
+margin-left: 0px;
+padding-right: 50px;
+padding-bottom: 10px;
+padding-top: 10px;
+width: 250px;
+padding-left: 50px;
+background: #000000;
+color: rgb(255, 255, 255);
+font-size: 1.6rem;
+font-weight: bold;
+text-decoration: none;
+text-transform: uppercase;
+text-align: center;
+}
+
+body p a{
+
+    
+    display: block;
+    width: 200px;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    
+}
+
+
+header{
+    background-color: rgb(201, 201, 201);
+}
+footer{
+    background-color: rgb(201, 201, 201);
+    
+    
+}
+
+
+
+body p a{
+    text-decoration: none;
+    width: 170px;
+}
+
+body p a:hover{
+    color: crimson;
+        
+}
+
+
+
+
+
+
+
+
+section{
+
+    text-align: center;
+}
+
+
+body section div{
+    width: 420px;
+    height: 420px;
+    background-color: rgba(184, 178, 178, 0.719);
+    margin: 20px;
+    display: inline-block;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    border-width: 5px;
+    border-style: groove;
+
+    
+}
+
+img{
+    height: 200px;
+    width: auto;
+}
+
+h4{
+    text-align: center;
+    border-radius: 5px;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+    border-style: solid;
+    margin-left: 850px;
+    margin-right: 850px;
+}
+
+
+
