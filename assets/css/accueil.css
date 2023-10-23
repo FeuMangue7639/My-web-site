@@ -111,3 +111,48 @@ h4{
 
 
 
+footer span{
+    width: 250px;
+    height: 250px;
+    background-color: rgba(184, 178, 178, 0.719);
+    margin: 20px;
+    display: inline-block;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    border-width: 5px;
+    border-style: groove;
+    
+}
+
+footer{
+    background-image: url(../client.png), url(../doigt.png), url(../tel.png), url(../fashion-1.png), url(../fashion-2.png), url(../BALL\ X\ ecrit.png);
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+    background-size: 250px, 220px, 250px, 550px, 550px;
+    background-position-x: 270px, 270px, 270px, 650px, 1250px, 20px;
+    background-position-y: 80px, 350px, 690px, 100px, 100px, 960px;
+
+}
+
+footer time{
+    margin-left: 25px;
+}
+
+
+
+footer .block__fashion{
+    margin-left: 1050px;
+    margin-top: 40px;
+    background: rgb(201, 201, 201);
+    color: rgb(0, 0, 0);
+    text-decoration: underline dashed;
+}
+
+body{
+    background: url(../GQ-Off-White-removebg-preview.png);
+background-repeat: no-repeat;
+background-position-x: 1500px;
+background-position-y: 900px;
+background-size: 400px;
+
+
+}
